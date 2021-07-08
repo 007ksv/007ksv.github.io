@@ -1,4 +1,4 @@
-# 007ksv.github.io - Personal Portfolio
+# Personal Portfolio
 
-## Click
-https://007ksv.github.io
+- Check it live [007ksv.github.io](https://007ksv.github.io)
+
